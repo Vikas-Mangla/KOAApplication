@@ -1,1 +1,1 @@
-worker: java -jar target/KOAAutomationApp-0.0.1-SNAPSHOT.jar
+worker: java -jar target/koa-application-vikas-1.0.jar  
